@@ -1,4 +1,4 @@
-# Curriculum Vitate (Spanish Version)
+# Curriculum Vitae (Spanish Version)
 
 Done on LATEX
 
